@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1297659116	First_Event			\Default Work Unit\First_Event	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	1057066911	114389__dymewiz__footsteps-snow-02	C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\.cache\Mac\SFX\114389__dymewiz__footsteps-snow-02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\114389__dymewiz__footsteps-snow-02		2907812
+

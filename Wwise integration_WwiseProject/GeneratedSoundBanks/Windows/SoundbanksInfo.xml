@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2878262188" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Soundbank_1</ObjectPath>
+			<ShortName>Soundbank_1</ShortName>
+			<Path>Soundbank_1.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1297659116" Name="First_Event" ObjectPath="\Events\Default Work Unit\First_Event" DurationType="OneShot" DurationMin="16.483831" DurationMax="16.483831">
+					<IncludedMemoryFiles>
+						<File Id="1057066911" Language="SFX">
+							<ShortName>114389__dymewiz__footsteps-snow-02.wav</ShortName>
+							<Path>SFX\114389__dymewiz__footsteps-snow-02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

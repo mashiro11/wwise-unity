@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5199EDE9-32A9-4774-B5C0-C8B2DB257409}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{5199EDE9-32A9-4774-B5C0-C8B2DB257409}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="114389__dymewiz__footsteps-snow-02" ID="{622E8DBD-F28C-4445-B141-9E230E4BD4C3}" ShortID="335497665">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1DD3C350-1EBE-4D20-84AE-FD4F4F9CF008}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{6826B6CF-10CF-4A7F-A550-94C0D7D91EF2}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="114389__dymewiz__footsteps-snow-02" ID="{F0E52759-9212-4C70-911F-081C35131113}">
+							<Language>SFX</Language>
+							<AudioFile>114389__dymewiz__footsteps-snow-02.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1057066911"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="114389__dymewiz__footsteps-snow-02" ID="{F0E52759-9212-4C70-911F-081C35131113}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

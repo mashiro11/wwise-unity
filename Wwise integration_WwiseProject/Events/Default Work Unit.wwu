@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F32A592F-4B94-401E-A895-6FA6122D7D1E}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{F32A592F-4B94-401E-A895-6FA6122D7D1E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="First_Event" ID="{8434EC12-F9F0-4B5F-BD57-77CDC6281FE3}">
+					<ChildrenList>
+						<Action Name="" ID="{DED68BA9-2F8D-491F-B3E5-1AD8D64D299B}" ShortID="650489174">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="114389__dymewiz__footsteps-snow-02" ID="{622E8DBD-F28C-4445-B141-9E230E4BD4C3}" WorkUnitID="{5199EDE9-32A9-4774-B5C0-C8B2DB257409}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

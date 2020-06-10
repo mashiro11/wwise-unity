@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Wwise integration_WwiseProject.wproj" DateLow="1591738649" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Wwise integration_WwiseProject.thiag.wsettings" DateLow="1591740944" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\States\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1591797154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Queries\Factory Queries.wwu" DateLow="1591731492" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1591731492" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Events\Default Work Unit.wwu" DateLow="1591797819" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Effects\Factory Effects.wwu" DateLow="1591731492" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1591731492" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1591740943" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1591738406" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\thiag\Documents\git_reps\GameDev\Wwise integration\Wwise integration_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1591797154" DateHigh="0"/>
+</ValidationCache>
